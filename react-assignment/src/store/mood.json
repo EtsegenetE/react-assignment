@@ -1,0 +1,6 @@
+{
+  "Fantasy": ["Enchanted", "Whimsical", "Epic", "Escapist"],
+  "Science Fiction": ["Curious", "Futuristic", "Analytical"],
+  "Mystery": ["Suspenseful", "Intrigued", "Tense"],
+  "Romance": ["Sentimental", "Passionate", "Hopeful"]
+}
